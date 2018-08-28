@@ -1,5 +1,0 @@
-open words, "</usr/share/dict/words";
-
-
-my @wlist;
-push @wlist while <words>;
